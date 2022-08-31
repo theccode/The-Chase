@@ -3,15 +3,13 @@
 
 ``` FIGURE 1 ```
 
-## Main Functions Used
+## MAIN FUNCTIONS
 **printBoard():** prints current game board. fugitiveMove(): allows fugitive to make moves. agentMove(): allows agent to make moves. gameState(): initialize the state of the game. setGameState(): set game’s state during play time.
 **getPlayerWhite():** get Agent player ready. getPlayerBlack(): get Fugitive player ready. promptMove(): method to prompt user for their move **getAllMoves():** get all available moves
 
-## Data structures used:
+## DATA STRUCTURES
 The main data structures used are:
-Vectors from the STL (Standard Template Library) e.g. Vector<Move> MoveList Boolean types
-Integer types
-Object types e.g. **Board board, Player player1**
+Vectors from the STL (Standard Template Library) e.g. Vector<Move> MoveList 
  
  **Main():** The main entry point of the program occur here. User instructions are issued from this
  function.
